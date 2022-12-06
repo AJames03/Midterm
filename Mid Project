@@ -99,7 +99,7 @@
 	            printf("                A = %.0f therefore, the City population would be about            \n", ans);
 	            printf("                                %.0f after %g Years.                           \n", ans, t);
 	            printf("================================================================================\n");
-	            printf("                                © Group #2   2022-2022                                 \n");
+	            printf("                                Â© Group #2   2022-2022                                 \n");
 	            printf("                                 Colegio De Montalban                                  \n");
 	            }
 
@@ -128,7 +128,7 @@
 	            printf("                P = %.0f therefore, the initial number of Population would be     \n", ans);
 	            printf("                                   %.0f in %.0f Years.                         \n", ans, t);
 	            printf("================================================================================\n");
-	            printf("                                © Group #2   2022-2022                                 \n");
+	            printf("                                Â© Group #2   2022-2022                                 \n");
 	            printf("                                 Colegio De Montalban                                  \n");
 	        }
 
@@ -157,7 +157,7 @@
 	            printf("                r = %.3f therefore, the rate of growth of the Population would be \n", ans);
 	            printf("                                       %.3f in the %.0f Years.                 \n", ans, t);
 	            printf("================================================================================\n");
-	            printf("                                © Group #2   2022-2022                                 \n");
+	            printf("                                Â© Group #2   2022-2022                                 \n");
 	            printf("                                 Colegio De Montalban                                  \n");
 	        }
 
@@ -186,7 +186,7 @@
 	            printf("                t = %.0f therefore, in the %.0f Years the size of Population was %g \n", ans, ans, A);
 	            printf("                                                                                       \n");
 	            printf("================================================================================\n");
-	            printf("                                © Group #2   2022-2022                                 \n");
+	            printf("                                Â© Group #2   2022-2022                                 \n");
 	            printf("                                 Colegio De Montalban                                  \n");
 	        }
 	    }
@@ -208,7 +208,7 @@
 	        printf("                                                                                       \n");
 	        printf("                                                                                       \n");
 	        printf("================================================================================\n");
-	        printf("                                © Group #2   2022-2022                                 \n");
+	        printf("                                Â© Group #2   2022-2022                                 \n");
 	        printf("                                 Colegio De Montalban                                  \n");
 	    }
 	    // the Code after if
